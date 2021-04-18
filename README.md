@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aspyse
-- 👀 I’m interested in software dev, game dev and 3d modelling
+- 👀 I’m interested in data science, game dev and 3d modelling
 - 🌱 I’m currently learning Python for data science
 - 📫 How to reach me: derek.burias@gmail.com
 
