@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aspyse
-- 👀 I’m interested in data science, game dev and 3d modelling
-- 🌱 I’m currently learning Python for data science
+- 👀 Python, Java, C#, HTML-CSS-JS
+- 🎨 Blender, Unity, Pycord, SQLite, AsyncIO
+- 🌱 I’m learning C
 - 📫 How to reach me: derek.burias@gmail.com
 
 <!---
