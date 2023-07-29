@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aspyse
-- 👀 Python, Java, C#, HTML-CSS-JS
+- 👀 Python, Java, C#, C, HTML-CSS-JS
 - 🎨 Blender, Unity, Pycord, SQLite, AsyncIO
 - 🌱 I’m learning C
 - 📫 How to reach me: derek.burias@gmail.com
