@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aspyse
 - 👀 Python, Java, C#, C, HTML-CSS-JS
-- 🎨 Blender, Unity, Pycord, SQLite, AsyncIO
-- 🌱 I’m learning C
+- 🎨 Blender, Unity
+- 🌱 Leetcode baby
 - 📫 How to reach me: derek.burias@gmail.com
 
 <!---
