@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aspyse
-- 👀 C#, Python, NodeJS, Java, C
-- 🎨 Blender, Unity
+- 👀 C++, C#, Python, Java, C
+- 🎨 DirectX, NodeJS, Blender, Unity
 - 📫 How to reach me: derek.burias@gmail.com
 
 <!---
